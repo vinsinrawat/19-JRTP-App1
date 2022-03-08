@@ -3,10 +3,11 @@ package in.ashokit;
 public class PwdUtils {
 
 	public void encode(String pwd) {
-		System.out.println("Encoding Password...! feature-branch");
+		System.out.println("Encoding Password...! develop branch");
 	}
 	
 	public void decode(String str) {
-		System.out.println("Decoding Password...!  feature-branch");
+		System.out.println("Decoding Password...! develop branch");
 	}
+	
 }
